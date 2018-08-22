@@ -2,4 +2,4 @@
 
 ## Programming & Comp Sci
 
-* [https://learngitbranching.js.org](Learn Git Branching Interactively)
+* [Learn Git Branching Interactively](https://learngitbranching.js.org)
